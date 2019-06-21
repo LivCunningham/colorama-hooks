@@ -39,7 +39,7 @@ export default function Slider() {
             type="range"
             min="0"
             max="320"
-            value={setHue}
+            // value={setHue}
             onChange={e => setHue(e.target.value)}
           />
           <h1>HUE</h1>
@@ -51,7 +51,7 @@ export default function Slider() {
             type="range"
             min="0"
             max="100"
-            value="setSaturation"
+            // value="setSaturation"
             onChange={e => setSaturation(e.target.value)}
           />
           <h1>SATURATION</h1>
@@ -63,7 +63,7 @@ export default function Slider() {
             type="range"
             min="0"
             max="100"
-            value="setLightness"
+            // value="setLightness"
             onChange={e => setLightness(e.target.value)}
           />
           <h1>LIGHTNESS</h1>
@@ -75,7 +75,7 @@ export default function Slider() {
             type="range"
             min="0"
             max="100"
-            value="setAlpha"
+            // value="setAlpha"
             onChange={e => setAlpha(e.target.value)}
           />
           <h1>ALPHA</h1>

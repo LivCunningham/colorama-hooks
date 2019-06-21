@@ -16,6 +16,8 @@ body {
   width: 17rem;
   height: 20rem;
   margin-left: 50rem;
+  width: 270px;
+  box-shadow: 0.2rem 0.2rem 0.2rem;
 }
 
 .H {
@@ -30,4 +32,13 @@ body {
 
 .sliders {
   margin-left: 55rem;
+}
+
+.paintCard {
+  display: flex;
+  margin-left: 50rem;
+  height: 30rem;
+  width: 300px;
+  background-color: whitesmoke;
+  box-shadow: 0.2rem 0.2rem 0.2rem;
 }
