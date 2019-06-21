@@ -4,4 +4,4 @@ In this assignment, we used a the Javascript. Math.random() function to create a
 
 This project is a REACT app that utilizes hooks for the changing of state for each slider and corresponding function.
 
-<img src="./Images/2.JPG" alt="colorama-hooks"/>
+<img src="../Images/2.JPG" alt="colorama-hooks"/>
